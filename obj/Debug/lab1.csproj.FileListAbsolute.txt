@@ -1,0 +1,9 @@
+C:\Users\ahmed\source\repos\lab1\bin\Debug\lab1.exe.config
+C:\Users\ahmed\source\repos\lab1\bin\Debug\lab1.exe
+C:\Users\ahmed\source\repos\lab1\bin\Debug\lab1.pdb
+C:\Users\ahmed\source\repos\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\lab1\obj\Debug\lab1.exe
+C:\Users\ahmed\source\repos\lab1\obj\Debug\lab1.pdb
+C:\Users\ahmed\source\repos\lab1\bin\Debug\NPoco.dll
+C:\Users\ahmed\source\repos\lab1\obj\Debug\lab1.csproj.CopyComplete
